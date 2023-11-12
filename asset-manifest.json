@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BlogZee/home/static/css/main.9dfd9165.css",
+    "main.js": "/BlogZee/home/static/js/main.910c13b9.js",
+    "index.html": "/BlogZee/home/index.html",
+    "main.9dfd9165.css.map": "/BlogZee/home/static/css/main.9dfd9165.css.map",
+    "main.910c13b9.js.map": "/BlogZee/home/static/js/main.910c13b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dfd9165.css",
+    "static/js/main.910c13b9.js"
+  ]
+}
